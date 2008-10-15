@@ -2,41 +2,7 @@
 <html>
 <head>
     <title>AdminPanel</title>
-    <style type="text/css">
-        body {
-            margin: 0;
-        }
-
-        .ul-verticle {
-            list-style-type: none;
-            margin: 0;
-            margin-top: 60px;
-            padding: 0;
-            width: 25%;
-            background-color: #f1f1f1;
-            position: fixed;
-            height: 100%;
-            overflow: auto;
-        }
-
-        .li-verticle a {
-            display: block;
-            color: #000;
-            padding: 8px 16px;
-            height: 60px;
-            text-decoration: none;
-        }
-
-        .li-verticle a.active {
-            background-color: black;
-            color: white;
-        }
-
-        .li-verticle a:hover:not(.active) {
-            background-color: #6c4882;
-            color: white;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/leftbar.css">
 </head>
 <body>
 <ul class="ul-verticle">

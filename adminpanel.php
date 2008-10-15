@@ -1,49 +1,14 @@
 <?php
-    echo '<script>alert("Welcome Admin its long time been seeing you")</script>';
+    echo '<script>alert("Welcome Admin")</script>';
 ?>
 <!DOCTYPE html>
 <html>
 <head>
     <title>AdminPanel</title>
-    <style type="text/css">
-        body {
-            margin-left: 140px;
-            background-image: url("admn.png");
-            background-size: 100%;
-            background-color: #cccccc;
-        }  
-        .ul-verticle {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            width: 25%;
-            background-color: #f1f1f1;
-            position: fixed;
-            height: 100%;
-            overflow: auto;
-        }
-
-        .li-verticle a {
-            display: block;
-            color: #000;
-            padding: 8px 16px;
-            text-decoration: none;
-        }
-
-        .li-verticle a.active {
-            background-color: #4CAF50;
-            color: white;
-        }
-
-        .li-verticle a:hover:not(.active) {
-            background-color: #555;
-            color: white;
-        }
-
-    </style>
+    <link rel="stylesheet" type="text/css" href="css/adminpanel.css">
 </head>
-<body background="admn.png">
-    <div >
+<body>
+    <div>
         <header>
             <?php include('topbaradmin.php');?>
         </header>

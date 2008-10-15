@@ -1,0 +1,66 @@
+.bgimg {
+    background-image: url("../img/results.jpg");
+    background-color: #cccccc;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box{
+    object-position: center;
+    opacity: 0.6;
+    background-color: white;
+    border-radius: 10px;
+}
+@media print {
+    .bgimg {background-image: none;}
+    #non-printable { display: none; }
+    #printable { display: block; }
+}
+/*for buttons*/
+.buton {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #333333;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    width: 175px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    height: 70px;
+}
+
+.buton span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+}
+.buton span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.buton:hover span {
+    padding-right: 25px;
+}
+
+.buton:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.input-box{
+    width: 300px;
+    height: 30px;
+    outline: none;
+    border-color: white;
+    border-radius: 10px;
+}
