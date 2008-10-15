@@ -2,27 +2,11 @@
 <html>
 <head>
 	<title>Index</title>
-	<style type="text/css">
-	.bgimg {
-		background-image: url("img/index.jpg");
-		background-size: 100%;
-		background-color: #cccccc;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-	}
-    .input-box{
-        width: 300px;
-        height: 30px;
-        outline: none;
-        border-color: white;
-        border-radius: 10px;
-    }
-    .text-center{
-    	text-align: center;
-    }
-	</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
-<body><div class="bgimg"><font color="white">
+<body>
+	<div class="bgimg"><font color="white">
 	<div>
 		<?php include('topbar.php');
 		echo '<script>alert("placeholder values are correct for username and password!!")</script>';?> 
@@ -32,11 +16,8 @@
 <hr>
 <marquee id="non-printable" bgcolor="#CCCEDA" style="opacity: 0.4; color:red"; width="100%" direction="left" height="50px"><br>
 !! To stop the spread of corona virus wear MASK  !!
-</marquee> <hr> 
-
-
-
-
+</marquee>
+<hr> 
 	<header>
 		<h1><center>Students Results Management System</center></h1>
 	</header>

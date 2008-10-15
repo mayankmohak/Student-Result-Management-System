@@ -1,0 +1,17 @@
+.bgimg {
+	background-image: url("../img/index.jpg");
+	background-size: 100%;
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.input-box{
+    width: 300px;
+    height: 30px;
+    outline: none;
+    border-color: white;
+    border-radius: 10px;
+}
+.text-center{
+	text-align: center;
+}
