@@ -1,5 +1,5 @@
 <?php
-                    echo '<script>alert("Welcome Admin its long time been seeing you")</script>';
+    echo '<script>alert("Welcome Admin its long time been seeing you")</script>';
 ?>
 <!DOCTYPE html>
 <html>
@@ -8,12 +8,10 @@
     <style type="text/css">
         body {
             margin-left: 140px;
-        background-image: url("admn.png");
-        background-size: 100%;
-        background-color: #cccccc;
-        /*height: 100px;*/
+            background-image: url("admn.png");
+            background-size: 100%;
+            background-color: #cccccc;
         }  
-
         .ul-verticle {
             list-style-type: none;
             margin: 0;

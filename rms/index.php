@@ -4,7 +4,7 @@
 	<title>Index</title>
 	<style type="text/css">
 	.bgimg {
-		background-image: url("imgmain.jpg");
+		background-image: url("img/index.jpg");
 		background-size: 100%;
 		background-color: #cccccc;
 		background-repeat: no-repeat;

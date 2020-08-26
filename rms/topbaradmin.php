@@ -1,45 +1,43 @@
 <?php session_start(); ?>
-
-
-    <head>
-        <style>
+<head>
+    <style>
 /*This is css for navigation bar*/
-            .ul-horizontal {
-                list-style-type: none;
-                /*margin: 0;*/
-                margin-left: none;
-                padding: 0;
-                overflow: hidden;
-                background-color: #32064C;
-            }
-            .li-horizontal{
-                float: left;
-            }
-            .li-horizontal a {
-                display: block;
-                color: white;
-                text-align: center;
-                padding: 14px 16px;
-                text-decoration: none;
-            }
-            .li-horizontal a:hover {
-                background-color: #6c4882;
-            }
-            .uperchipkao{
-                position: fixed;
-                width: 100%;
-                margin-left: 0px;
-                margin-right: 0px;
-                margin-top: 0px;
-            }
-            .aise_he{
-                display: block;
-                color: white;
-                text-align: center;
-                padding: 14px 16px;
-                text-decoration: none;
-            }
-        </style>
+        .ul-horizontal {
+            list-style-type: none;
+            /*margin: 0;*/
+            margin-left: none;
+            padding: 0;
+            overflow: hidden;
+            background-color: #32064C;
+        }
+        .li-horizontal{
+            float: left;
+        }
+        .li-horizontal a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .li-horizontal a:hover {
+            background-color: #6c4882;
+        }
+        .uperchipkao{
+            position: fixed;
+            width: 100%;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+        }
+        .aise_he{
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+    </style>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><!-- this link is for symbols -->
     </head>
 <body  >

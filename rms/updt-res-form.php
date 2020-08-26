@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>update result</title>
-  <style type="text/css">
+  	<style type="text/css">
         /*for buttons*/
         .button {
             display: inline-block;
@@ -151,7 +151,6 @@ if (isset($_POST['Submit'])) {
 			$be = $row['be'];
 		}
 	}
-	
 echo '
 	<hr>
 	<div >

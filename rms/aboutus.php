@@ -88,7 +88,7 @@ html {
 <div class="row">
      <div class="column">
           <div class="card">
-               <img src="mohak.png" alt="Mayank Mohak" style="width:100%">
+               <img src="img/mohak.png" alt="Mayank Mohak" style="width:100%">
                <div class="container">
                     <h2>MAYANK MOHAK</h2>
                     <p class="title">TEAM:- PANCHNAMA</p>
@@ -101,7 +101,7 @@ html {
 
      <div class="column">
           <div class="card">
-               <img src="gupta.png" alt="Mayank Gupta" style="width:100%">
+               <img src="img/gupta.png" alt="Mayank Gupta" style="width:100%">
                <div class="container">
                     <h2>Mayank Gupta</h2>
                     <p class="title">TEAM:- PANCHNAMA</p>
@@ -113,7 +113,7 @@ html {
      </div>
      <div class="column">
           <div class="card">
-               <img src="issak.png" alt="Issak Nayank" style="width:100%">
+               <img src="img/issak.png" alt="Issak Nayank" style="width:100%">
                <div class="container">
                     <h2>Issak Nayank</h2>
                     <p class="title">TEAM:- PANCHNAMA</p>
@@ -125,7 +125,7 @@ html {
      </div>
      <div class="column">
           <div class="card">
-               <img src="adarsh.png" alt="Adarsh Gupta" style="width:100%">
+               <img src="img/adarsh.png" alt="Adarsh Gupta" style="width:100%">
                <div class="container">
                     <h2>Adarsh Gupta</h2>
                     <p class="title">TEAM:- PANCHNAMA</p>
@@ -137,7 +137,7 @@ html {
      </div>
      <div class="column">
           <div class="card">
-               <img src="faizan.jpg" alt="Faizan Ansari" style="width:100%">
+               <img src="img/faizan.jpg" alt="Faizan Ansari" style="width:100%">
                <div class="container">
                     <h2>Faizan Ansari</h2>
                     <p class="title">TEAM:- PANCHNAMA</p>

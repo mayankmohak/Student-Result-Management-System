@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        
         <style>
 /*This is css for navigation bar*/
             body {

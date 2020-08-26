@@ -46,7 +46,7 @@
         <li><a href="view-result.php">View<br>Details</a></li>
         <li><a href="delete-result.php">Delete<br>Details</a></li>
         <li><a href="change-pass.php">Admin Change<br>Password</a></li>
-        <img src="work.png" style="margin-left: 10px; margin-top: 10px; height: 300px" >
+        <img src="img/work.png" style="margin-left: 10px; margin-top: 10px; height: 300px" >
     </div>
 </ul>
 

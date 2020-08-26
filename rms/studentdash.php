@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
     <style type="text/css">
     .bgimg {
-        background-image: url("results.jpg");
+        background-image: url("img/results.jpg");
         background-color: #cccccc;
         background-size: 100%;
         background-repeat: no-repeat;
