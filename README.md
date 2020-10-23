@@ -1,4 +1,4 @@
-# Project Name: student Result Management System
+# Project Name: Student Result Management System
 This is a result managing portal that can be used easily by schools to Add, edit, and delete results.
 >The hosted [link](http://result-board.infinityfreeapp.com/rms/index.php) of this is work is
 
