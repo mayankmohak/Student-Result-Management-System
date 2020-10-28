@@ -24,7 +24,8 @@
 </head>
 <body><div class="bgimg"><font color="white">
 	<div>
-		<?php include('topbar.php');?> 
+		<?php include('topbar.php');
+		echo '<script>alert("placeholder values are correct for username and password!!")</script>';?> 
 	</div>
 
 <br><br>
@@ -52,7 +53,7 @@
 		</tr>
 		<tr>
 			
-			<td><input class="input-box" type="text" id="UserName" name="UserName"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+			<td><input class="input-box" type="text" id="UserName" name="UserName" placeholder="admin"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
 			
 		</tr>
 
@@ -62,7 +63,7 @@
 		</tr>
 		<tr>
 			
-			<td><input class="input-box" type="Password" id="admin-pwd" name="admin-pwd"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+			<td><input class="input-box" type="Password" id="admin-pwd" name="admin-pwd" placeholder="1234"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
 			
 		</tr>
 		<tr>
