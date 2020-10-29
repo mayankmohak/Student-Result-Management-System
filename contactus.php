@@ -2,27 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<style type="text/css"> 
-        .box{
-            opacity: 0.5;
-            font-size:20px;
-            height:400px;
-            width:600px;
-            border:2px blue;
-            padding:20px;
-            margin:20px;
-            margin-top:; 
-            margin-left: 500px;
-            border-radius: 40px;
-            background-color:white;
-            font-color:white;
-        } 
-        body { 
-            background-image: url("img/admn.png");
-            background-size: 100%;
-            background-color: #cccccc;
-        }             
-	</style>
+	<link rel="stylesheet" type="text/css" href="css/contactus.css">
 	<title></title>
 </head>
 <body style="background-color: skyblue;">
