@@ -13,7 +13,7 @@
 
 ## ❓ What is this project about?
 
-This project is focused on building an online portal of [STUDENT RESULT MANAGEMENT SYSTEM](http://result-board.infinityfreeapp.com/rms/index.php) directed to easier the managent work of publishing results.
+This project is focused on building an online portal of [STUDENT RESULT MANAGEMENT SYSTEM](http://result-board.infinityfreeapp.com/rms/index.php) directed to easier the management work of publishing results.
 
 ## :computer: Project Development:
   - Backend: [PHP]
